@@ -9,6 +9,6 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
-        (new RunController()).run();
+        new RunController().run();
     }
 }
